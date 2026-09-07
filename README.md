@@ -1,28 +1,27 @@
-# Yemeni Community in Malaysia (YCIM) Web Platform
+# Yemeni Community in Malaysia (YCIM) Web Portal
 
-Official website and digital portal developed for the **Yemeni Community in Malaysia (YCIM)**. The platform serves as a central hub for community news, announcements, events, and resources for Yemenis residing in Malaysia.
+The official digital platform and web portal for the **Yemeni Community in Malaysia (YCIM)**. Built using **WordPress, Elementor Pro, and custom CSS**, this platform serves as a central hub for community announcements, student services, event organization, and official resources.
 
 🌐 **Live Website:** [https://ycim.org/](https://ycim.org/)
 
 ---
 
 ## 📌 Project Overview
-* **Role:** Web Developer & Designer
-* **Target Audience:** Yemeni community members, students, and expatriates in Malaysia.
-* **Core Purpose:** Deliver a responsive, fast, and accessible portal for community updates, media content, and organizational information.
+* **Role:** Web Developer & UI Designer
+* **Core Purpose:** Deliver an accessible, fast, and culturally tailored digital platform for Yemenis residing in Malaysia.
+* **Platform Architecture:** WordPress Content Management System (CMS) integrated with Elementor page builder and performance/security tools.
 
 ---
 
-## 🛠️ Key Responsibilities & Features
-* **Custom UI/UX Design:** Designed a clean, professional, and cultural-friendly layout using WordPress & CSS.
-* **Performance Optimization:** Applied caching, asset minification, and image optimization to ensure fast loading speeds.
-* **Responsive Layout:** Ensured seamless experience across smartphones, tablets, and desktop devices.
-* **Security & Maintenance:** Configured basic WordPress security protocols, database backups, and spam protection for forms.
+## 🛠️ Key Technical Features & Work
+* **Custom UI/UX & Responsive Layouts:** Designed responsive pages optimized for desktop, tablet, and mobile viewing.
+* **Performance Optimization:** Implemented caching strategies, image compression, and minification to ensure fast page load speeds.
+* **CMS & Content Operations:** Set up dynamic news modules, event registration forms, media galleries, and structured user navigation.
+* **Security & Server Setup:** Configured SSL encryption, domain DNS mapping, anti-spam protections, and backup management.
 
 ---
 
 ## 🚀 Tech Stack
-* **CMS:** WordPress
-* **Frontend:** HTML5, CSS3, JavaScript, Elementor
-* **Backend:** PHP, MySQL
-* **Hosting/Server:** Apache/Nginx, cPanel
+* **CMS & Builder:** WordPress, Elementor Pro
+* **Frontend Languages:** HTML5, CSS3, Custom JavaScript
+* **Database & Hosting:** MySQL, Apache/Nginx, cPanel
